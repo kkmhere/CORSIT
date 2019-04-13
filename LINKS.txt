@@ -1,0 +1,15 @@
+Important links
+
+Link to download GITHUB:https://git-scm.com/downloads
+
+NICE VIDEO:https://youtu.be/w3jLJU7DT5E
+
+Website:www.github.com
+
+COMMANDS
+
+git config --global user.email "xyg"
+git config --global user.name  "cccc"
+
+
+@copyright kkmhere
